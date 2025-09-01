@@ -745,7 +745,7 @@ dict_fish = {
                 "Рыбец": "Rybets",
                 "Ряпушка": "Vendace",
                 "Ряпушка сибирская": "Siberian_vendace",
-                "Сазан": "Carp",
+                "Сазан": "Wild_carp",
                 "Сайда": "Saida",
                 "Сайра атлантическая": "Atlantic_saury",
                 "Сардина европейская": "European_sardine",
