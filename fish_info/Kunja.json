@@ -1,0 +1,14 @@
+{
+    "name": "Кунджа",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 1.0,
+    "counted_cost": -1,
+    "chat_weight": 1.8,
+    "chat_cost": 9.86111111111111,
+    "trof_weight": 10.0,
+    "trof_cost": -1,
+    "rare_trof_weight": 14.0,
+    "rare_trof_cost": -1,
+    "max_weight": 18.0
+}

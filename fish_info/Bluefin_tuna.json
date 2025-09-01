@@ -1,0 +1,14 @@
+{
+    "name": "Тунец голубой",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 0,
+    "counted_cost": -1,
+    "chat_weight": 20.0,
+    "chat_cost": 13.0,
+    "trof_weight": 250.0,
+    "trof_cost": -1,
+    "rare_trof_weight": 400.0,
+    "rare_trof_cost": -1,
+    "max_weight": 550.0
+}

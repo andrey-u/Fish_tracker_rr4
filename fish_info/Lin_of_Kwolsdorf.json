@@ -1,0 +1,14 @@
+{
+    "name": "Линь Квольсдорфский",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 0,
+    "counted_cost": -1,
+    "chat_weight": 0.75,
+    "chat_cost": 32.72,
+    "trof_weight": 4.0,
+    "trof_cost": 127.627841,
+    "rare_trof_weight": 6.0,
+    "rare_trof_cost": 255.2577821,
+    "max_weight": 7.5
+}

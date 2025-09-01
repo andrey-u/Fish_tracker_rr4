@@ -1,0 +1,14 @@
+{
+    "name": "Карась серебряный",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 0.3,
+    "counted_cost": 1.2333333333333334,
+    "chat_weight": 0.35,
+    "chat_cost": 2.9755,
+    "trof_weight": 1.9,
+    "trof_cost": 7.947368421052632,
+    "rare_trof_weight": 3.2,
+    "rare_trof_cost": -1,
+    "max_weight": 4.0
+}

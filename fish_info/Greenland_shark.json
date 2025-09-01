@@ -1,0 +1,14 @@
+{
+    "name": "Акула гренландская полярная",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 30.0,
+    "counted_cost": 4.433333333333334,
+    "chat_weight": 100.0,
+    "chat_cost": 6.72,
+    "trof_weight": 600.0,
+    "trof_cost": 26.881666666666668,
+    "rare_trof_weight": 900.0,
+    "rare_trof_cost": 53.76222222222222,
+    "max_weight": 1100.0
+}

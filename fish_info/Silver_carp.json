@@ -1,0 +1,14 @@
+{
+    "name": "Толстолобик пёстрый",
+    "uncounted_weight": 0,
+    "uncounted_cost": 0.295,
+    "counted_weight": 3.0,
+    "counted_cost": 1.05,
+    "chat_weight": 4.0,
+    "chat_cost": 2.10375,
+    "trof_weight": 30.0,
+    "trof_cost": -1,
+    "rare_trof_weight": 45.0,
+    "rare_trof_cost": -1,
+    "max_weight": 60.0
+}

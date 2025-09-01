@@ -1,0 +1,14 @@
+{
+    "name": "Лещ восточный",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 0.75,
+    "counted_cost": 3.0666666666666664,
+    "chat_weight": 1.0,
+    "chat_cost": 6.136,
+    "trof_weight": 4.4,
+    "trof_cost": 18.41,
+    "rare_trof_weight": 7.0,
+    "rare_trof_cost": -1,
+    "max_weight": 8.0
+}

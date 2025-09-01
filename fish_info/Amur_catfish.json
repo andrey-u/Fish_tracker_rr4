@@ -1,0 +1,14 @@
+{
+    "name": "Сом амурский",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 0.6,
+    "counted_cost": 7.65,
+    "chat_weight": 1.0,
+    "chat_cost": 15.34,
+    "trof_weight": 5.0,
+    "trof_cost": -1,
+    "rare_trof_weight": 7.0,
+    "rare_trof_cost": -1,
+    "max_weight": 8.0
+}

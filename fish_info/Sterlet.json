@@ -1,0 +1,14 @@
+{
+    "name": "Стерлядь",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 1.0,
+    "counted_cost": -1,
+    "chat_weight": 1.9,
+    "chat_cost": 11.687,
+    "trof_weight": 9.0,
+    "trof_cost": -1,
+    "rare_trof_weight": 14.0,
+    "rare_trof_cost": -1,
+    "max_weight": 17.0
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Карась золотой",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 0.28,
+    "counted_cost": -1,
+    "chat_weight": 0.35,
+    "chat_cost": 3.205,
+    "trof_weight": 1.8,
+    "trof_cost": -1,
+    "rare_trof_weight": 2.9,
+    "rare_trof_cost": -1,
+    "max_weight": 3.5
+}

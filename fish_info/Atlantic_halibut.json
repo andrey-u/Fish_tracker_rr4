@@ -1,0 +1,14 @@
+{
+    "name": "Палтус атлантический",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 3.0,
+    "counted_cost": 2.7466666666666666,
+    "chat_weight": 12.0,
+    "chat_cost": 3.6158333333333332,
+    "trof_weight": 150.0,
+    "trof_cost": 16.653333333333332,
+    "rare_trof_weight": 220.0,
+    "rare_trof_cost": 28.927272727272726,
+    "max_weight": 350.0
+}

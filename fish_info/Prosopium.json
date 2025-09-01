@@ -1,0 +1,14 @@
+{
+    "name": "Валёк",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 0.2,
+    "counted_cost": -1,
+    "chat_weight": 0.3,
+    "chat_cost": 294.53333333333336,
+    "trof_weight": 1.2,
+    "trof_cost": -1,
+    "rare_trof_weight": 1.6,
+    "rare_trof_cost": -1,
+    "max_weight": 1.7
+}

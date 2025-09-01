@@ -1,0 +1,14 @@
+{
+    "name": "Голец Куорский",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 1.0,
+    "counted_cost": -1,
+    "chat_weight": 2.0,
+    "chat_cost": 7.97,
+    "trof_weight": 22.0,
+    "trof_cost": 32.09090909090909,
+    "rare_trof_weight": 30.0,
+    "rare_trof_cost": -1,
+    "max_weight": 40.0
+}

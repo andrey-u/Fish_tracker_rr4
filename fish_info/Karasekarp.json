@@ -1,0 +1,14 @@
+{
+    "name": "Карасекарп",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 0.4,
+    "counted_cost": -1,
+    "chat_weight": 0.45,
+    "chat_cost": 16.1257,
+    "trof_weight": 3.0,
+    "trof_cost": 32.25666666666667,
+    "rare_trof_weight": 4.0,
+    "rare_trof_cost": -1,
+    "max_weight": 5.0
+}

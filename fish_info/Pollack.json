@@ -1,0 +1,14 @@
+{
+    "name": "Поллак",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 1.1,
+    "counted_cost": 4.090909090909091,
+    "chat_weight": 1.5,
+    "chat_cost": 8.18,
+    "trof_weight": 11.0,
+    "trof_cost": 32.72727272727273,
+    "rare_trof_weight": 14.0,
+    "rare_trof_cost": 65.42857142857143,
+    "max_weight": 18.0
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Форель севанская",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 0.5,
+    "counted_cost": 4.42,
+    "chat_weight": 1.6,
+    "chat_cost": 8.85,
+    "trof_weight": 9.0,
+    "trof_cost": 35.666666666666664,
+    "rare_trof_weight": 15.0,
+    "rare_trof_cost": -1,
+    "max_weight": 18.0
+}

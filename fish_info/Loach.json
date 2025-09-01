@@ -1,0 +1,14 @@
+{
+    "name": "Вьюн",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 0.06,
+    "counted_cost": -1,
+    "chat_weight": 0.08,
+    "chat_cost": -1,
+    "trof_weight": 0.2,
+    "trof_cost": -1,
+    "rare_trof_weight": 0.25,
+    "rare_trof_cost": -1,
+    "max_weight": 0.3
+}

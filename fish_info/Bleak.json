@@ -1,0 +1,14 @@
+{
+    "name": "Уклейка",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 0.035,
+    "counted_cost": 29.142857142857142,
+    "chat_weight": 0.04,
+    "chat_cost": 58.49999999999999,
+    "trof_weight": 0.11,
+    "trof_cost": -1,
+    "rare_trof_weight": 0.16,
+    "rare_trof_cost": -1,
+    "max_weight": 0.2
+}

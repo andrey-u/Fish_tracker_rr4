@@ -1,0 +1,14 @@
+{
+    "name": "Тюлька черноморская",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 0.015,
+    "counted_cost": -1,
+    "chat_weight": 0.016,
+    "chat_cost": -1,
+    "trof_weight": 0.024,
+    "trof_cost": -1,
+    "rare_trof_weight": 0.028,
+    "rare_trof_cost": -1,
+    "max_weight": 0.03
+}

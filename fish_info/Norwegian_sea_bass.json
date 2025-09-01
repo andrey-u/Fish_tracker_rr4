@@ -1,0 +1,14 @@
+{
+    "name": "Окунь морской норвежский",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 0.35,
+    "counted_cost": 9.114285714285714,
+    "chat_weight": 0.6,
+    "chat_cost": 18.21666666666667,
+    "trof_weight": 3.0,
+    "trof_cost": 36.333333333333336,
+    "rare_trof_weight": 4.0,
+    "rare_trof_cost": -1,
+    "max_weight": 5.0
+}

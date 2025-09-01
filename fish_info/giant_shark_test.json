@@ -1,0 +1,13 @@
+{
+    "name": "Акула гигантская",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 50.0,
+    "counted_cost": 1.74,
+    "chat_weight": 90.0,
+    "chat_cost": 2.6333333333333333,
+    "trof_weight": 1300.0,
+    "trof_cost": -1,
+    "rare_trof_weight": 2500.0,
+    "rare_trof_cost": 21.0376
+}

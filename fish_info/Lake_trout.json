@@ -1,0 +1,14 @@
+{
+    "name": "Форель озерная",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 1.0,
+    "counted_cost": 1.28,
+    "chat_weight": 1.6,
+    "chat_cost": 2.8249999999999997,
+    "trof_weight": 10.0,
+    "trof_cost": -1,
+    "rare_trof_weight": 15.0,
+    "rare_trof_cost": -1,
+    "max_weight": 18.0
+}

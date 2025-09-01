@@ -1,0 +1,14 @@
+{
+    "name": "Треска атлантическая",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 3.0,
+    "counted_cost": 1.6633333333333333,
+    "chat_weight": 7.0,
+    "chat_cost": 2.5242857142857145,
+    "trof_weight": 50.0,
+    "trof_cost": 10.1,
+    "rare_trof_weight": 65.0,
+    "rare_trof_cost": 20.184615384615384,
+    "max_weight": 100.0
+}

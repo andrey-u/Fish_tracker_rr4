@@ -1,0 +1,14 @@
+{
+    "name": "Синец",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 0,
+    "counted_cost": -1,
+    "chat_weight": 0.13,
+    "chat_cost": 56.15384615384615,
+    "trof_weight": 0.75,
+    "trof_cost": -1,
+    "rare_trof_weight": 1.1,
+    "rare_trof_cost": -1,
+    "max_weight": 1.3
+}

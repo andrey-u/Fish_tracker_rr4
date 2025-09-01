@@ -1,0 +1,14 @@
+{
+    "name": "Зубатка полосатая",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 0.9,
+    "counted_cost": 3.944444444444444,
+    "chat_weight": 2.0,
+    "chat_cost": 7.89,
+    "trof_weight": 14.5,
+    "trof_cost": 31.586206896551722,
+    "rare_trof_weight": 19.0,
+    "rare_trof_cost": -1,
+    "max_weight": 24.0
+}

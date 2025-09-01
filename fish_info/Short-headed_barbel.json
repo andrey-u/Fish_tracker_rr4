@@ -1,0 +1,14 @@
+{
+    "name": "Усач короткоголовый",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 1,
+    "counted_cost": 6.01,
+    "chat_weight": 2.0,
+    "chat_cost": 12.02,
+    "trof_weight": 13.0,
+    "trof_cost": 48.086,
+    "rare_trof_weight": 18.0,
+    "rare_trof_cost": -1,
+    "max_weight": 21.0
+}

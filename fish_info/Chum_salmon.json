@@ -1,0 +1,14 @@
+{
+    "name": "Кета",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 1.5,
+    "counted_cost": 1.607,
+    "chat_weight": 1.8,
+    "chat_cost": 3.2111111111111112,
+    "trof_weight": 8.0,
+    "trof_cost": -1,
+    "rare_trof_weight": 10.0,
+    "rare_trof_cost": -1,
+    "max_weight": 12.0
+}

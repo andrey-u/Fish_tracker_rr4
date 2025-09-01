@@ -1,0 +1,14 @@
+{
+    "name": "Хариус восточносибирский",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 0.3,
+    "counted_cost": 11.666666666666668,
+    "chat_weight": 0.4,
+    "chat_cost": 23.374999999999996,
+    "trof_weight": 2.0,
+    "trof_cost": -1,
+    "rare_trof_weight": 2.5,
+    "rare_trof_cost": -1,
+    "max_weight": 3.0
+}

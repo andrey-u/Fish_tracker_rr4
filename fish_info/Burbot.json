@@ -1,0 +1,14 @@
+{
+    "name": "Налим",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 1.0,
+    "counted_cost": -1,
+    "chat_weight": 1.2,
+    "chat_cost": 3.725,
+    "trof_weight": 9.0,
+    "trof_cost": 20.11111111111111,
+    "rare_trof_weight": 14.0,
+    "rare_trof_cost": -1,
+    "max_weight": 17.0
+}

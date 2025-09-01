@@ -1,0 +1,14 @@
+{
+    "name": "Меч-рыба",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 0,
+    "counted_cost": -1,
+    "chat_weight": 40.0,
+    "chat_cost": 12.95,
+    "trof_weight": 300.0,
+    "trof_cost": -1,
+    "rare_trof_weight": 450.0,
+    "rare_trof_cost": 51.784444444444446,
+    "max_weight": 1000.0
+}

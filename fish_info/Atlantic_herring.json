@@ -1,0 +1,14 @@
+{
+    "name": "Сельдь атлантическая",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 0.15,
+    "counted_cost": 51.06666666666667,
+    "chat_weight": 0.18,
+    "chat_cost": 102.27777777777779,
+    "trof_weight": 0.8,
+    "trof_cost": 203.75,
+    "rare_trof_weight": 1.0,
+    "rare_trof_cost": 307.0,
+    "max_weight": 1.2
+}

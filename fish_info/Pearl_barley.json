@@ -1,0 +1,14 @@
+{
+    "name": "Перловица",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 0.05,
+    "counted_cost": -1,
+    "chat_weight": 0.09,
+    "chat_cost": -1,
+    "trof_weight": 0.19,
+    "trof_cost": -1,
+    "rare_trof_weight": 0.28,
+    "rare_trof_cost": -1,
+    "max_weight": 0.35
+}

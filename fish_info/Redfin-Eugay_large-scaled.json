@@ -1,0 +1,14 @@
+{
+    "name": "Краснопёр-Угай крупночешуйчатый",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 0.18,
+    "counted_cost": -1,
+    "chat_weight": 0.2,
+    "chat_cost": -1,
+    "trof_weight": 1.2,
+    "trof_cost": -1,
+    "rare_trof_weight": 1.5,
+    "rare_trof_cost": -1,
+    "max_weight": 1.8
+}

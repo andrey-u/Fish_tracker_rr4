@@ -1,0 +1,14 @@
+{
+    "name": "Карп красный Старвас - зеркальный",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 0.1,
+    "counted_cost": 3.4999999999999996,
+    "chat_weight": 4.0,
+    "chat_cost": 7.0125,
+    "trof_weight": 25.0,
+    "trof_cost": -1,
+    "rare_trof_weight": 40.0,
+    "rare_trof_cost": -1,
+    "max_weight": 50.0
+}

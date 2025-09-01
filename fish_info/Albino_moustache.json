@@ -1,0 +1,14 @@
+{
+    "name": "Усач альбинос",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 1.2,
+    "counted_cost": -1,
+    "chat_weight": 1.5,
+    "chat_cost": 37.39677,
+    "trof_weight": 8.0,
+    "trof_cost": -1,
+    "rare_trof_weight": 12.0,
+    "rare_trof_cost": -1,
+    "max_weight": 15.0
+}

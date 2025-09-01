@@ -1,0 +1,14 @@
+{
+    "name": "Тарань",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 0.2,
+    "counted_cost": -1,
+    "chat_weight": 0.25,
+    "chat_cost": -1,
+    "trof_weight": 1.3,
+    "trof_cost": -1,
+    "rare_trof_weight": 1.8,
+    "rare_trof_cost": -1,
+    "max_weight": 2.0
+}

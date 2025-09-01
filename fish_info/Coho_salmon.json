@@ -1,0 +1,14 @@
+{
+    "name": "Кижуч",
+    "uncounted_weight": 0,
+    "uncounted_cost": -1,
+    "counted_weight": 0.75,
+    "counted_cost": 6.5625,
+    "chat_weight": 1.0,
+    "chat_cost": 13.14,
+    "trof_weight": 5.5,
+    "trof_cost": -1,
+    "rare_trof_weight": 7.0,
+    "rare_trof_cost": -1,
+    "max_weight": 7.5
+}
